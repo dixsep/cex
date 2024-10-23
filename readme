@@ -1,0 +1,13 @@
+
+Creating an ORDER BOOK 
+
+Users 
+    1 . To place order (buy / sell)
+    2 . display their balances
+    3 . Display the Order BOOK
+    4 . Making only Limit Order
+
+    Additional:
+
+    1 . Get Quote
+    2 . Allow users to place Market Order
